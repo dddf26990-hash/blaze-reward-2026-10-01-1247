@@ -1,0 +1,20 @@
+{
+  "icon_url": "https://base44.app/api/apps/6a82cd9cb7ad28d36744964d/files/mp/public/6a82cd9cb7ad28d36744964d/7b63aa0a1_1000058726.png",
+  "icon_source": "uploaded",
+  "is_visible": true,
+  "color": "#D4AF37",
+  "image_url": "https://base44.app/api/apps/6a82cd9cb7ad28d36744964d/files/mp/public/6a82cd9cb7ad28d36744964d/d6b818e1b_1000058725.png",
+  "description": "Reward platforms with Fortnite V-Bucks payouts.",
+  "seo_title": null,
+  "image_source": "uploaded",
+  "is_deleted": false,
+  "name": "Free V-Bucks",
+  "seo_description": null,
+  "sort_order": 6,
+  "slug": "free-v-bucks",
+  "id": "6a82cff2521fc70c8a830990",
+  "created_date": "2026-08-17T09:10:10.906000",
+  "updated_date": "2026-08-18T18:54:39.923000",
+  "created_by_id": "6a82cd9cb7ad28d36744964e",
+  "is_sample": false
+}
