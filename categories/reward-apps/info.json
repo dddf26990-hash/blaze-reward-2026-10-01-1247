@@ -1,0 +1,20 @@
+{
+  "icon_url": "https://base44.app/api/apps/6a82cd9cb7ad28d36744964d/files/mp/public/6a82cd9cb7ad28d36744964d/0620de60e_1000058734.png",
+  "icon_source": "uploaded",
+  "is_visible": true,
+  "color": "#D4AF37",
+  "image_url": "https://base44.app/api/apps/6a82cd9cb7ad28d36744964d/files/mp/public/6a82cd9cb7ad28d36744964d/3fce2c089_1000058741.png",
+  "description": "Mobile reward applications from external partners.",
+  "seo_title": null,
+  "image_source": "uploaded",
+  "is_deleted": false,
+  "name": "Reward Apps",
+  "seo_description": null,
+  "sort_order": 7,
+  "slug": "reward-apps",
+  "id": "6a82cff2521fc70c8a830991",
+  "created_date": "2026-08-17T09:10:10.906000",
+  "updated_date": "2026-08-18T22:21:07.904000",
+  "created_by_id": "6a82cd9cb7ad28d36744964e",
+  "is_sample": false
+}
