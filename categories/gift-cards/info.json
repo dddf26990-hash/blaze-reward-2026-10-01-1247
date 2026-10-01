@@ -1,0 +1,20 @@
+{
+  "icon_url": "https://base44.app/api/apps/6a82cd9cb7ad28d36744964d/files/mp/public/6a82cd9cb7ad28d36744964d/056c70ed0_1000058581.png",
+  "icon_source": "uploaded",
+  "is_visible": true,
+  "color": "#D4AF37",
+  "image_url": "https://base44.app/api/apps/6a82cd9cb7ad28d36744964d/files/mp/public/6a82cd9cb7ad28d36744964d/0113dd2d9_1000058580.jpg",
+  "description": "Partners that reward you with gift cards for popular stores.",
+  "seo_title": null,
+  "image_source": "uploaded",
+  "is_deleted": false,
+  "name": "Gift Cards",
+  "seo_description": null,
+  "sort_order": 1,
+  "slug": "gift-cards",
+  "id": "6a82cff2521fc70c8a83098b",
+  "created_date": "2026-08-17T09:10:10.905000",
+  "updated_date": "2026-08-18T12:50:05.638000",
+  "created_by_id": "6a82cd9cb7ad28d36744964e",
+  "is_sample": false
+}
