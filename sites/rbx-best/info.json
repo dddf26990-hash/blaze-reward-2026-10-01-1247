@@ -1,0 +1,33 @@
+{
+  "like_count": 0,
+  "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=rbx.best",
+  "description": "",
+  "click_count": 2,
+  "promo_code": "",
+  "has_copy_code": false,
+  "url": "https://rbx.best/ref/3108742",
+  "platform": "any",
+  "tags": [],
+  "is_enabled": true,
+  "logo_source": "manual",
+  "admin_notes": "",
+  "is_archived": false,
+  "original_url": "https://rbx.best/ref/3108742",
+  "reward_info": "",
+  "name": "Rbx best",
+  "warning": "",
+  "hero_image_url": "",
+  "mobile_compatible": true,
+  "category_ids": [
+    "6a82cff2521fc70c8a83098c"
+  ],
+  "sort_order": 0,
+  "is_featured": false,
+  "status": "active",
+  "slug": "Rbx-best",
+  "id": "6a8b5610b901c78bbafe75f9",
+  "created_date": "2026-08-23T20:20:32.064000",
+  "updated_date": "2026-09-20T00:51:35.436000",
+  "created_by_id": "6a82e24f103b1f537a22246f",
+  "is_sample": false
+}
