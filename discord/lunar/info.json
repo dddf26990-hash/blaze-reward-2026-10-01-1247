@@ -1,0 +1,15 @@
+{
+  "icon_url": "https://base44.app/api/apps/6a82cd9cb7ad28d36744964d/files/mp/public/6a82cd9cb7ad28d36744964d/a22ce56d9_1000103238.png",
+  "is_enabled": true,
+  "is_required": true,
+  "invite_url": "https://discord.gg/mNhbdpxmcT",
+  "name": "Lunar",
+  "guild_id": "",
+  "description": "click on the verification button in the server ",
+  "sort_order": 0,
+  "id": "6ab031dd7ab08b8592675bbb",
+  "created_date": "2026-09-20T19:19:57.588000",
+  "updated_date": "2026-09-25T18:06:06.311000",
+  "created_by_id": "6a82e24f103b1f537a22246f",
+  "is_sample": false
+}
